@@ -9,5 +9,5 @@
 }
 
 body {
-  background-color: salmon;
+  background: linear-gradient(120deg, purple, black);
 }
